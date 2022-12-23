@@ -1,0 +1,88 @@
+{
+    "hookahCatalog":[
+        {
+            "id":1,
+            "name":"Classic Glass",
+            "material":"Stainless steel",
+            "color":"transparent",
+            "brand":"Totem Hookah",
+            "flask volume":"1,8 л",
+            "Shaft diameter":"14 мм"
+
+
+        },
+        {
+            "id":2,
+            "name":"Union Sleek",
+            "material":"Stainless steel",
+            "color":"transparent",
+            "brand":"Totem Hookah",
+            "flask volume":"1,2 л",
+            "Shaft diameter":"12 мм"
+        },
+        {
+            "id":3,
+            "name":"Dark Side",
+            "material":"Stainless steel",
+            "color":"transparent",
+            "brand":"Totem Hookah",
+            "flask volume":"1,8 л",
+            "Shaft diameter":"17 мм"
+        },
+        {
+            "id":4,
+            "name":"Carbonica Force",
+            "material":"Stainless steel",
+            "color":"transparent",
+            "brand":"Totem Hookah",
+            "flask volume":"1,6 л",
+            "Shaft diameter":"18 мм"
+        },
+        {
+            "id":5,
+            "name":"Monolit Ultra",
+            "material":"Stainless steel",
+            "color":"transparent",
+            "brand":"Totem Hookah",
+            "flask volume":"1,7 л",
+            "Shaft diameter":"15 мм"
+        },
+        {
+            "id":6,
+            "name":"Little Stick",
+            "material":"Stainless steel",
+            "color":"transparent",
+            "brand":"Totem Hookah",
+            "flask volume":"1,9 л",
+            "Shaft diameter":"13 мм"
+        },
+    ]
+}
+{
+    "accessoriesCatalog":[
+        {
+            "id":7,
+            "name":"Silicone bowl",
+            "material":"silicone",
+            "color":"black",
+            "brand":"Totem Hookah",
+            "Shaft diameter":"8cм"
+        },
+        {
+            "id":8,
+            "name":"Tongs",
+            "material":"Stainless steel",
+            "color":"black",
+            "brand":"Totem Hookah",
+            "Shaft diameter":"13cм"
+        },
+        {
+            "id":9,
+            "name":"Coconut coal",
+            "material":"cocnut",
+            "color":"black",
+            "brand":"Cocoloco",
+            "Number of grams":"1kg"
+        },
+    ]
+}
