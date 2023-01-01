@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Hookah-shop/static/css/main.7e13764e.css",
+    "main.js": "/Hookah-shop/static/js/main.4686720d.js",
+    "static/js/651.a543a249.chunk.js": "/Hookah-shop/static/js/651.a543a249.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Hookah-shop/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/Hookah-shop/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/Hookah-shop/index.html",
+    "main.7e13764e.css.map": "/Hookah-shop/static/css/main.7e13764e.css.map",
+    "main.4686720d.js.map": "/Hookah-shop/static/js/main.4686720d.js.map",
+    "651.a543a249.chunk.js.map": "/Hookah-shop/static/js/651.a543a249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e13764e.css",
+    "static/js/main.4686720d.js"
+  ]
+}
